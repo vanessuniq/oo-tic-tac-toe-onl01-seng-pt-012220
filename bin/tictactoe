@@ -1,5 +1,9 @@
 #!/usr/bin/env ruby
 require 'pry'
 require_relative '../lib/tic_tac_toe.rb'
+<<<<<<< HEAD
 game = TicTacToe.new
 game.play
+=======
+self.play
+>>>>>>> 6f437d3389393d210ef41326660b85ce556d417a
